@@ -138,3 +138,26 @@ treinamento-git-github/
 * `docs/`: tutoriais, guias ou imagens de apoio.
 * `scripts/`: scripts usados nos exercícios ou laboratório.
 * `dados/`: arquivos de teste ou dados coletados.
+
+
+
+
+🧩 feat: criar estrutura inicial do script sensor.py
+
+(criou o arquivo e colocou o esqueleto do código)
+
+⚙️ feat: adicionar função para ler dados do sensor
+
+(implementou uma função nova)
+
+🧪 test: adicionar testes básicos para leitura do sensor
+
+(criou testes para verificar se a função funciona)
+
+🐞 fix: corrigir erro na conversão de dados do sensor
+
+(consertou um bug encontrado nos testes)
+
+🧾 docs: adicionar instruções de uso no README
+
+(atualizou a documentação)
